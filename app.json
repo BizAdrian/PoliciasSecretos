@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "seguridad_20220502",
+    "slug": "tarea8seguridad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/placapolicia.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/estacionpolicia.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.tarea8.tarea8seguridad"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "739cf1f9-13a7-4e2e-b564-ba931c052615"
+      }
+    }
+  }
+}
